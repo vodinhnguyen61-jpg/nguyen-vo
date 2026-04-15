@@ -1,4 +1,4 @@
-# Calculator Project with JavaScript Tutorial
+# Calculator Project with JavaScript 
 
 I built a calculator using vanilla HTML, CSS, and JavaScript. It's an ideal project for honing my logical programming skills and showcasing them in my portfolio.
 
